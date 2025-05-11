@@ -1,16 +1,19 @@
-# sad2
+# 📱 SAD2 – Sistema de Avaliação de Desempenho
 
-A new Flutter project.
+Bem-vindo ao **SAD2**, um aplicativo básico feito em Flutter para realizar avaliações de desempenho de forma simples e eficiente. Ideal para testes, estudos e projetos iniciais! 🚀
 
-## Getting Started
+## ✨ Funcionalidades
+- Avaliação de desempenho com interface amigável 🎯  
+- Projeto leve e fácil de entender 💡  
+- Código aberto e disponível no GitHub 🧠
 
-This project is a starting point for a Flutter application.
+## 📦 Download do App
+Baixe a versão mais recente diretamente aqui:  
+👉 [Download no GitHub](https://github.com/Nill-pixel/sad2/releases/download/app/app-release.apk)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Como rodar
+Clone o repositório e execute:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
